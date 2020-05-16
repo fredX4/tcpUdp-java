@@ -6,6 +6,8 @@
 
 ### How to Run? (TCP or UDP)
 
+Open Command Prompt. Navigate to the directory of the protocol you want to run (TCP or UDP).
+
 1. Compile FileServer.java program
 <pre>javac FileServer.java</pre>
 2. Compile Server.java program
