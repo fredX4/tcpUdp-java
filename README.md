@@ -1,6 +1,6 @@
 # Standard Implementation - TCP and UDP
 
-### Prerequisites:
+#### Prerequisites:
 
 * Java 8 installed
 
@@ -36,6 +36,11 @@ Server:<br>
 
 Client:<br>
 ![](images/TCP_Client.png)
+
+### Output:
+
+The file that was requested will be transferred to the directory wherein the Client program is running from.
+
 
 ## UDP Implementation
 
