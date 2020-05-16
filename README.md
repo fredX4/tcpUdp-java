@@ -28,18 +28,18 @@ example:
 ### Screenshots - TCP
 
 Server:<br>
-![](screenshots/TCP_Server.png)
+![](images/TCP_Server.png)
 
 Client:<br>
-![](screenshots/TCP_Client.png)
+![](images/TCP_Client.png)
 
 ### Screenshots - UDP
 
 Server:<br>
-![](screenshots/UDP_Server.png)
+![](images/UDP_Server.png)
 
 Client:<br>
-![](screenshots/UDP_Client.png)
+![](images/UDP_Client.png)
 
 ### Output:
 
